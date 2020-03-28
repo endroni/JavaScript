@@ -7,7 +7,7 @@
     <style>
         body {
             background: rgba(210, 224, 7, 0.959);
-            color: rgb(5, 59, 90);
+            color: white;
             font: normal 16pt Arial;
         }
     </style>
@@ -16,14 +16,17 @@
     <h1>Primeiros passos com DOM</h1>
     <p>Hoje estamos praticando <strong>DOM</strong> no JavaScript</p>
     <p>Aqui vemos o resultado:</p>
-    <div>Clique em mim</div>
+    <div id="text">Clique em mim</div>
 
     <script>
         var corpo = window.document.body
         var p1 = window.document.getElementsByTagName('p')[0]
-        window.document.write('Conteúdo do primeiro parágrafo: ' + p1.innerHTML)
-        p1.style.color = 'red'
-        corpo.style.background = 'green'        
+        /*     
+        var t = window.document.getElementById('text')
+        t.style.background = 'green' 
+        window.document.getElementById('text').innerText = 'Histórico atlético'         
+        */
+        var t = window.document.querySelector('div#text')
     </script>
 </body>
 </html>
