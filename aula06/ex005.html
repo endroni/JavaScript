@@ -16,7 +16,7 @@
     <h1>Primeiros passos com DOM</h1>
     <p>Hoje estamos praticando <strong>DOM</strong> no JavaScript</p>
     <p>Aqui vemos o resultado:</p>
-    <div id="text">Clique em mim</div>
+    <div class="text">Clique em mim</div>
 
     <script>
         var corpo = window.document.body
@@ -26,7 +26,8 @@
         t.style.background = 'green' 
         window.document.getElementById('text').innerText = 'Histórico atlético'         
         */
-        var t = window.document.querySelector('div#text')
+        var t = window.document.querySelector('div.text')
+        t.style.background = 'black'
     </script>
 </body>
 </html>
