@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nacionalidade</title>
+</head>
+<body>
+    <h1>Controle de Nacionalidade</h1>
+    Em que país você nasceu? <input type="text" name="txtpaís" id="txtpaís"> 
+    <input  type="button" value="Enviar" onclick="nacionalidade()"> 
+    <div id="res">
+
+    </div>
+
+    <script>
+        function nacionalidade() {
+            var txtp = window.document.getElementById('txtpaís')
+            var res = window.document.querySelector('div#res')
+            var país = String(txtp.value)
+            res.innerHTML = `Você é `
+            if (país == 'Brasil') {
+                res.innerHTML += `brasileiro`
+            } else {
+                res.innerHTML += `estrangeiro`
+            }            
+        }
+    </script>
+</body>
+</html>
