@@ -29,7 +29,6 @@ function verificar(){
             }
         } else if (fsex[1].checked){
             gênero = 'Mulher'
-            gênero = 'Homem'
             if (idade >= 0 && idade < 10) {
                 // Criança
                 img.setAttribute('src', 'img/mulher_babe.png')
