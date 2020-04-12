@@ -6,7 +6,17 @@ function contador(){
     var nintervalo = document.getElementById('txtintervalo')
     var intervalo = Number(nintervalo.value)
     var res = document.querySelector('div#res')
-    for (num ; num <= fim ; num = num + intervalo){
-        res.innerHTML = `${num}`
-    }    
+    if (num == 0 ){
+        res.innerHTML = `Informe o número inicial`
+    } else if (fim == 0 ){
+        res.innerHTML = `Informe o número final`
+    } else if ( intervalo == 0 ){
+        res.innerHTML = `Informe o número de intervalo`
+    } else {
+        for (num ; num <= fim ; num = num + intervalo){
+            res.innerHTML = `${num}`
+        }
+    }        
 }
+
+
