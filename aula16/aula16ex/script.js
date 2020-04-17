@@ -27,7 +27,7 @@ function adicionar() {
         let item = document.createElement('option')
         item.text = `Valor ${num.value} adicionado.`
         lista.appendChild(item)
-        res.innerHTML = ''  // limpa o resultado sempre que um número for adicionado
+        res.innerHTML = ''  // limpa o resultado 
     } else {
         window.alert('Valor inválido ou já encontrado na lista.')
     }
@@ -40,15 +40,15 @@ function finalizar() {
         window.alert('Adicione valores para finalizar!')
     } else {
         let tot = valores.length
-        let menor = valores[0]      //o primeiro valor é o menor e o maior
-        let maior = valores[0]      // o primeiro vamor é o menor e o maior 
+        let menor = valores[0]      //o primeiro valor é o menor 
+        let maior = valores[0]      // o primeiro vamor é o maior 
         let soma = 0                // zera o valor da soma
         let media = 0               //zera o valor da média
       
         for (let pos in valores) {          
             soma += valores[pos]            
             if (valores[pos] > maior)       // e qual o maior valor
-                maior = valores[pos]        // esse for é para saber qual o menor
+                maior = valores[pos]        // qual o menor
             if (valores[pos] < menor)
                 menor = valores[pos]
         }

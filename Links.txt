@@ -1,0 +1,99 @@
+Curso em Vídeo. Prof. Gustavo Guanabara
+Esplicações sobre o curso
+01 - Teaser - https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1 - Visto
+02 - https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLuHnogVhQCn-UE3A6DwBdOxrTcgJPCtXo - Visto
+03 - https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=3 - Visto
+
+Como estudar:
+1 - Não pule nenhum vídeo
+2 - Anote tudo ( tutorial )
+3 - Duas telas
+4 - Pratique
+5 - Compartilhe
+
+Módulo A - Conhecendo Java Script
+
+01 - https://www.youtube.com/watch?v=Ptbk2af68e8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=4 - Visto
+02 - https://www.youtube.com/watch?v=rUTKomc2gG8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=5 - Visto
+03 - https://www.youtube.com/watch?v=FdePtO5JSd0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=6 - Visto
+04 - https://www.youtube.com/watch?v=OmmJBfcMJA8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=7 - Visto
+
+Módulo B - Comandos Básicos do JavaScript
+
+https://www.youtube.com/watch?v=FjT97HVT5g8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=8 - Visto
+
+Armazenando dados
+Tratamento de dados
+Operação com dados
+
+05 - https://www.youtube.com/watch?v=Vbabsye7mWo&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=9 - Visto
+06 - https://www.youtube.com/watch?v=OJgu_KCCUSY&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=10 - Visto
+07 - https://www.youtube.com/watch?v=hZG9ODUdxHo&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=11 - Visto
+08 - https://www.youtube.com/watch?v=BP63NhITvao&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=12 - Visto
+
+Módulo C - 
+
+DOM É a parte web do JavaScript - o motivo original pelo qual o JavaScript foi criado
+Document Object Model
+Árvore DOM
+Manipulando DOM 
+
+DOM - https://www.youtube.com/watch?v=H80nCKs9c2k&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=13 - Visto
+
+09 - https://www.youtube.com/watch?v=WWZX8RWLxIk&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=14 - Visto
+10 - https://www.youtube.com/watch?v=wWnBB-mZIvY&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=15 - Visto
+
+Módulo D - Condições em JavaScript
+
+https://www.youtube.com/watch?v=uPFasdmZHJc&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=16 - Visto
+
+Condições Simples - if
+Condições Compostas - if else
+Condições Aninhadas - else if
+Condições Múltiplas - switch case
+Exercícios propostos 
+
+11 - https://www.youtube.com/watch?v=cOdG4eACN2A&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=17 - Visto
+12 - https://www.youtube.com/watch?v=EEStcIe8rAM&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=18 - Visto
+13 - https://www.youtube.com/watch?v=b2K7eo5Jdj8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=19 - Exercícios -  Visto
+14 - https://www.youtube.com/watch?v=UXSWgnbSHxs&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=20 - Exercícios - Visto
+15 - https://www.youtube.com/watch?v=f5es-PpaUI8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=21 - Exercícios - Visto
+	
+Módulo E - Repetições em JS 
+
+16 - https://www.youtube.com/watch?v=3emz6rpcJyA&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=22 - Visto
+
+Repetição com teste no início while
+Repetições com teste no final do while 
+Repetição com controle for
+
+17 - https://www.youtube.com/watch?v=5rZqYPKIwkY&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=23 - Visto
+18 - https://www.youtube.com/watch?v=eX-lkN_Zahc&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=24 - Visto
+19 - https://www.youtube.com/watch?v=6tyHypeY4-8&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=25 - Exercícios - Visto
+20 - https://www.youtube.com/watch?v=oMNbc_LFz8w&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=26 - Exercício 1 - Visto
+21 - https://www.youtube.com/watch?v=mfHAQ-4Rspw&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=27 - Exercício 2 - Visto
+
+
+Módulo F - Variáveis compostas - arrays
+
+22 - https://www.youtube.com/watch?v=5m4UhZd-Les&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=28 - Visto
+
+Variáveis compostas - arrays
+Uso de Funções e eventos
+Passagem de Parâmetros
+Próximos passos
+
+23 - https://www.youtube.com/watch?v=XdkW62tkAgU&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=29 - Visto
+24 - https://www.youtube.com/watch?v=mc3TKp2XzhI&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=30 - Visto
+25 - https://www.youtube.com/watch?v=vEOEZ03ZyiE&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=31 - Exercícios - Visto
+26 - https://www.youtube.com/watch?v=slLoLLCd-k0&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=32 - Exercícios - Visto 
+27 - https://www.youtube.com/watch?v=roP93FA-NgU&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=33 - Próximos passos - Visto 16/04/2019
+
+Três formas de ganhar dinheiro com tecnologia por Janser 
+1ª - Trabalhar com tecnologia (ser um desenvolvedor) Certificação i3e
+2ª - Trabalhar como freelancer
+	Sturtups com ferramentas para encontrar projetos freelancer: 
+		- 99freelas
+		- Getninjas
+3ª - Criando startups - Desenvolver sua ideia. 
+	Thales Gomes de Juiz de Fora criou o Esey taxi 
